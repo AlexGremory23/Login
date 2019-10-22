@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Login</string>
+    <string name="Nombre">Nombre</string>
+    <string name="IngNombre">Ingresa tu Nombre</string>
+    <string name="Password">Password \"Apellido\"</string>
+    <string name="Apellido">Ingresa tu Apellido</string>
+    <string name="Ingresar">Ingresar</string>
+    <string name="Regresar">Regresar</string>
+    <string name="onClick">Regresar</string>
+    <string name="txtComentario">TE LOGUIASTE CORRECTAMEN</string>
+</resources>
